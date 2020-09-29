@@ -6,8 +6,6 @@ if (process.argv.length !== 4) {
     process.exit(1)
 }
 
-
-
 let url = process.argv[2];
 let file = process.argv[3];
 
